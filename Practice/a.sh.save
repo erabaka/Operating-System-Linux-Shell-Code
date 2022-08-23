@@ -1,0 +1,9 @@
+#! /bin/bash
+
+#i=0
+#args=()
+#while [ $i -le $# ]
+#do 
+#echo -n  ${args[i]}
+#i=$((i+1))
+#done
